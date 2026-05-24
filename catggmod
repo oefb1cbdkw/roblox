@@ -1,7 +1,7 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua'))()
+-- == [Bypass] ==
+loadstring(game:HttpGet("https://pastefy.app/pDhoQmem/raw"))()
 
-
-  --[[
+--[[
     scoot ui library
     made by samet
     
